@@ -1,0 +1,4 @@
+[video video=mov_gacha_dokan_pick-set-bloom-22-0511 clip=\{"_startTime":0.0,"_duration":14.8666666667,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[bgm bgm=sud_bgm_gacha_dokan_pick-set-bloom-22-0511 sync=true clip=\{"_startTime":0.0,"_duration":14.8666666667,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[fade clip=\{"_startTime":14.0666666667,"_duration":0.8000000000000007,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[timeline]
